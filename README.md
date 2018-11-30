@@ -1,2 +1,2 @@
 # WALL
-Interactive Fiction
+Silent Hill Interactive Fiction
